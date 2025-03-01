@@ -1,5 +1,5 @@
 ## Hola! 👋 mi nombre es Ronald
-y soy un consultor con doble especialidad en diseño UI y desarrollo web, y con pasión por el mundo e-commerce.
+y soy un consultor con doble especialidad en diseño UI y desarrollo web, con pasión por el mundo e-commerce.
 *Acompañado siempre con mi fiel Ferris Sweep y NeoVim*
 
 Actualmente me encuentro trabajando en un proyecto personal que tiene como objetivo desafiar mis habilidades y, 
