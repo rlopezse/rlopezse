@@ -34,22 +34,6 @@ A Front-End e-commerce project built from scratch to explore and refresh my know
 
 ---
 
-### ☄️ [Nebula](https://github.com/rlopezse/nebula)
-
-An e-commerce application built with Angular, expanding on the ideas explored in Pulsar while experimenting with authentication and API integration.
-
-**Angular · TypeScript · API · Authentication · GitHub Actions**
-
----
-
-### ☀️ [Solaris](https://github.com/rlopezse/solaris)
-
-A backend/API project focused on exploring server-side development and data persistence.
-
-**Node.js · SQL · ORM · Redis**
-
----
-
 ### ✍️ [Próxima](https://github.com/rlopezse/proxima)
 
 A personal blog built as a space to write and experiment with a different kind of digital product.
@@ -59,6 +43,14 @@ Inspired by minimal editorial interfaces and focused on keeping the reading expe
 **Vue · Firebase**
 
 → [proxima-project.com](https://proxima-project.com/)
+
+---
+
+### ☀️ [Solaris](https://github.com/rlopezse/solaris)
+
+A backend/API project focused on exploring server-side development and data persistence.
+
+**Node.js · SQL · ORM · Redis**
 
 ---
 
