@@ -58,7 +58,7 @@ A backend/API project focused on exploring server-side development and data pers
 
 **Frontend**
 
-React · TypeScript · JavaScript · Vue · Angular · HTML · CSS
+React · TypeScript · JavaScript · HTML · CSS
 
 **Backend**
 
