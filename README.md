@@ -1,83 +1,51 @@
 # Ronald López
 
-### Front-End Developer · Consultant
+### Front-End Developer · Software Development Consultant
 
-I build digital products with a focus on **performance, usability and clean architecture**.
+Front-end developer with 10+ years of experience building e-commerce websites, reusable components and business logic, mainly for **telecom companies**. I work with **React and TypeScript**, and I'm available for software development consulting.
 
-With 10+ years of experience in web development, I work mainly with **React, TypeScript and JavaScript**, while exploring different technologies and approaches through personal projects.
-
-I enjoy turning ideas into working products — from browser extensions and e-commerce applications to APIs and personal tools.
+Contact me on [LinkedIn](https://www.linkedin.com/in/roldlopez/).
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🪝 [Hook Tabs](https://github.com/rlopezse/hook-tabs)
+### [Hook Tabs](https://github.com/rlopezse/hook-tabs)
 
-A Chrome extension for managing open tabs without relying on the mouse.
+A Chrome extension for managing tabs entirely from the keyboard: search, navigate, close, pin and reorder, plus bookmarks and recently closed tabs.
 
-Search, navigate, close, pin and reorder tabs directly from the keyboard, with additional support for bookmarks and recently closed tabs.
+<img src="https://raw.githubusercontent.com/rlopezse/hook-tabs/refs/heads/main/docs/screenshot-1.png" alt="Hook Tabs screenshot" width="600">
 
 **TypeScript · Chrome Extensions · Vite**
 
 → [Chrome Web Store](https://chromewebstore.google.com/detail/hook-tabs/fgjphkmaeoajpoadgdcconamlfapjobp)
 
----
+### [Pulsar](https://github.com/rlopezse/pulsar)
 
-### 📡 [Pulsar](https://github.com/rlopezse/pulsar)
-
-A Front-End e-commerce project built from scratch to explore and refresh my knowledge of React, TypeScript and modern CSS.
+A classic e-commerce storefront built from scratch, deployed through a GitHub Actions and Cloudflare pipeline.
 
 **React · TypeScript · Firebase · Firestore · Cloudflare · GitHub Actions**
 
 → [Live project](https://pulsar-project.com/)
 
----
+### [Próxima](https://github.com/rlopezse/proxima)
 
-### ✍️ [Próxima](https://github.com/rlopezse/proxima)
-
-A personal blog built as a space to write and experiment with a different kind of digital product.
-
-Inspired by minimal editorial interfaces and focused on keeping the reading experience simple.
+A minimal, editorial-style personal blog where I experiment with writing-focused interfaces.
 
 **Vue · Firebase**
 
 → [proxima-project.com](https://proxima-project.com/)
 
----
+### [Solaris](https://github.com/rlopezse/solaris)
 
-### ☀️ [Solaris](https://github.com/rlopezse/solaris)
+A user registration and login API with SQL persistence through Prisma and Redis.
 
-A backend/API project focused on exploring server-side development and data persistence.
-
-**Node.js · SQL · ORM · Redis**
+**Node.js · SQL · Prisma · Redis**
 
 ---
 
-## 🛠️ Technologies
+## Stack
 
-**Frontend**
-
-React · TypeScript · JavaScript · HTML · CSS
-
-**Backend**
-
-Node.js · SQL · Prisma · Redis
-
-**Cloud & Tools**
-
-Firebase · Firestore · Cloudflare · GitHub Actions · Git
-
----
-
-## 🧪 Personal Projects
-
-Most of the projects here are built to solve a real problem, explore an idea or learn something new.
-
-I like experimenting with different technologies rather than limiting myself to a single stack.
-
----
-
-## 🌐 Find me
-
-[Portfolio](https://ronaldlz.dev) · [LinkedIn](https://www.linkedin.com/in/roldlopez/)
+**Frontend:** React · TypeScript · JavaScript · Vue · HTML · CSS
+**Backend:** Node.js · SQL · Prisma · Redis
+**Cloud & Tools:** Firebase · Cloudflare · GitHub Actions · Git
