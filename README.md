@@ -28,9 +28,9 @@ A classic e-commerce storefront built from scratch, deployed through a GitHub Ac
 
 → [Live project](https://pulsar-project.com/)
 
-### [Próxima](https://github.com/rlopezse/proxima)
+jd### [Proxima](https://github.com/rlopezse/proxima)
 
-A minimal, editorial-style personal blog where I experiment with writing-focused interfaces.
+A minimal, editorial-style personal blog where I write about personal experiences, games and software development.
 
 **Vue · Firebase**
 
